@@ -5,6 +5,7 @@ type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [python, micropython, raspberrypipico, epaper]
 published: true 
 published_at: 2025-12-04 07:00
+publication_name: "mavericks"
 ---
 
 :::message
