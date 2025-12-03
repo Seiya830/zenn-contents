@@ -3,7 +3,8 @@ title: "MicroPythonで挑戦！Pico WH × E-Paperによる天気予報ディス�
 emoji: "☃️"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: [python, micropython, raspberrypipico, epaper]
-published: false
+published: true 
+published_at: 2025-12-04 07:00
 ---
 
 :::message
